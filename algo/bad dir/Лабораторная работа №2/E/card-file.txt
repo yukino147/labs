@@ -1,0 +1,2 @@
+1 12563 Ivanov_Vlad 40
+2 25565 Petrov_Andrey 300
