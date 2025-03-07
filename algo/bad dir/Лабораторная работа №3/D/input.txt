@@ -1,4 +1,0 @@
-3
-10 alfa
-15 beta
-20 gamma
